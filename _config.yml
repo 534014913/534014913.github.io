@@ -23,9 +23,9 @@ sass:
 
 # Site Data
 url: https://534014913.github.io # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 title: Yi Lai
-description: This is the blog of Yi Lai
+description: "This is the blog of Yi"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
@@ -36,7 +36,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/534014913
     - name: instagram
       url:
     - name: linkedin
@@ -48,9 +48,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Yi Lai </h1>
+  section1: <h1>Yi Lai</h1>
   section2: <h2>Man invents, monkeys imitate</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/534014913" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
