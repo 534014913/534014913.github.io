@@ -22,10 +22,10 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+url: https://534014913.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /blog # the subpath of your site, e.g. /blog
+title: Yi Lai's Blog
+description: "Man invents, monkeys imitate"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
